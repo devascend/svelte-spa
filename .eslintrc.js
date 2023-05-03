@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  extends: 'standard-with-typescript',
+  extends: 'react-app',
   parserOptions: {
     project: './tsconfig.json'
   },
