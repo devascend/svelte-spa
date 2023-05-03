@@ -1,6 +1,6 @@
 import React from "react";
-import HelloWorld from "components/HelloWorld";
+import Menu from "components/Menu";
 
-const App: React.FC = () => <HelloWorld />;
+const App: React.FC = () => <Menu />;
 
 export default App;
